@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/SYNts.dir/src/SYNts.c.o  -o ../bin/SYNts 
