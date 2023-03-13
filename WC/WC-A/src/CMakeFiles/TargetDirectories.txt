@@ -1,0 +1,4 @@
+/home/lukelin/Desktop/WC-A/src/CMakeFiles/rebuild_cache.dir
+/home/lukelin/Desktop/WC-A/src/CMakeFiles/edit_cache.dir
+/home/lukelin/Desktop/WC-A/src/CMakeFiles/AS-Client.dir
+/home/lukelin/Desktop/WC-A/src/CMakeFiles/A-Client.dir

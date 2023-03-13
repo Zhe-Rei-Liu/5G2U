@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/AS-Client.dir/src/AS-Client.c.o CMakeFiles/AS-Client.dir/open62541/open62541.c.o  -o ../bin/AS-Client  -lm 
