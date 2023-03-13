@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/A-Server.dir/src/A-Server.c.o CMakeFiles/A-Server.dir/open62541_ts/open62541.c.o  -o ../bin/A-Server  -lm 

@@ -1,0 +1,3 @@
+/home/j/Desktop/FM-A/build/CMakeFiles/rebuild_cache.dir
+/home/j/Desktop/FM-A/build/CMakeFiles/edit_cache.dir
+/home/j/Desktop/FM-A/build/CMakeFiles/A-Server.dir
