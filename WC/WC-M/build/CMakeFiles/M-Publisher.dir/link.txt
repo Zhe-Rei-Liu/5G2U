@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/M-Publisher.dir/src/M-Publisher.c.o CMakeFiles/M-Publisher.dir/open62541/dir/open62541.c.o  -o ../bin/M-Publisher  -lpthread 
