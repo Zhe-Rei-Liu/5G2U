@@ -1,0 +1,175 @@
+﻿  BasicMain_NRuRLLC.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+  SystemMS_NRuRLLC.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+  SystemBS_NRuRLLC.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+  SystemSim_NRuRLLC.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+c:\5g simulator - reference (0813)\simulator\simulation top\global\systemsim_nrurllc.cpp(74): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\5g simulator - reference (0813)\simulator\simulation top\global\systemsim_nrurllc.cpp(75): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Global.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+  Scheduling_NRuRLLC.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+c:\5g simulator - reference (0813)\simulator\radio resource management\scheduling\scheduling_nrurllc.cpp(99): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\5g simulator - reference (0813)\simulator\radio resource management\scheduling\scheduling_nrurllc.cpp(128): warning C4018: '<': signed/unsigned mismatch
+  SchedulingMS_NRuRLLC.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+  SchedulingBS_NRuRLLC.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+c:\5g simulator - reference (0813)\simulator\radio resource management\schedulingbs\schedulingbs_nrurllc.cpp(148): warning C4018: '<': signed/unsigned mismatch
+c:\5g simulator - reference (0813)\simulator\radio resource management\schedulingbs\schedulingbs_nrurllc.cpp(299): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+c:\5g simulator - reference (0813)\simulator\radio resource management\schedulingbs\schedulingbs_nrurllc.cpp(368): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+  Network_NRuRLLC.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+  NetworkMS_NRuRLLC.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+c:\5g simulator - reference (0813)\simulator\network configuration\networkms\networkms_nrurllc.cpp(79): warning C4101: 'interSiteDistance': unreferenced local variable
+  NetworkBS_NRuRLLC.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+c:\5g simulator - reference (0813)\simulator\network configuration\networkbs\networkbs_nrurllc.cpp(83): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+c:\5g simulator - reference (0813)\simulator\network configuration\networkbs\networkbs_nrurllc.cpp(84): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+c:\5g simulator - reference (0813)\simulator\network configuration\networkbs\networkbs_nrurllc.cpp(100): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+c:\5g simulator - reference (0813)\simulator\network configuration\networkbs\networkbs_nrurllc.cpp(101): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+  Performance_NRuRLLC.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+c:\5g simulator - reference (0813)\simulator\link performance\performance\performance_nrurllc.cpp(80): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  PerformanceMS_NRuRLLC.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+  PerformanceBS_NRuRLLC.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+c:\5g simulator - reference (0813)\simulator\link performance\performancebs\performancebs_nrurllc.cpp(185): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+c:\5g simulator - reference (0813)\simulator\link performance\performancebs\performancebs_nrurllc.cpp(193): warning C4018: '<': signed/unsigned mismatch
+c:\5g simulator - reference (0813)\simulator\link performance\performancebs\performancebs_nrurllc.cpp(184): warning C4101: 'siIndex': unreferenced local variable
+  Channel_NRuRLLC.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+  ChannelMS_NRuRLLC.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+  ChannelBS_NRuRLLC.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+  3DSpatialChannelModel_NRuRLLC.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+c:\5g simulator - reference (0813)\simulator\channel model\3d spatialchannelmodel\3dspatialchannelmodel_nrurllc.cpp(1096): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+c:\5g simulator - reference (0813)\simulator\channel model\3d spatialchannelmodel\3dspatialchannelmodel_nrurllc.cpp(1097): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+c:\5g simulator - reference (0813)\simulator\channel model\3d spatialchannelmodel\3dspatialchannelmodel_nrurllc.cpp(1151): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\5g simulator - reference (0813)\simulator\channel model\3d spatialchannelmodel\3dspatialchannelmodel_nrurllc.cpp(1205): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+c:\5g simulator - reference (0813)\simulator\channel model\3d spatialchannelmodel\3dspatialchannelmodel_nrurllc.cpp(1206): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+c:\5g simulator - reference (0813)\simulator\channel model\3d spatialchannelmodel\3dspatialchannelmodel_nrurllc.cpp(1207): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+c:\5g simulator - reference (0813)\simulator\channel model\3d spatialchannelmodel\3dspatialchannelmodel_nrurllc.cpp(1208): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+c:\5g simulator - reference (0813)\simulator\channel model\3d spatialchannelmodel\3dspatialchannelmodel_nrurllc.cpp(1209): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+c:\5g simulator - reference (0813)\simulator\channel model\3d spatialchannelmodel\3dspatialchannelmodel_nrurllc.cpp(1210): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+c:\5g simulator - reference (0813)\simulator\channel model\3d spatialchannelmodel\3dspatialchannelmodel_nrurllc.cpp(1211): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+c:\5g simulator - reference (0813)\simulator\channel model\3d spatialchannelmodel\3dspatialchannelmodel_nrurllc.cpp(1212): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+c:\5g simulator - reference (0813)\simulator\channel model\3d spatialchannelmodel\3dspatialchannelmodel_nrurllc.cpp(1616): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+c:\5g simulator - reference (0813)\simulator\channel model\3d spatialchannelmodel\3dspatialchannelmodel_nrurllc.cpp(1617): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+c:\5g simulator - reference (0813)\simulator\channel model\3d spatialchannelmodel\3dspatialchannelmodel_nrurllc.cpp(1618): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+c:\5g simulator - reference (0813)\simulator\channel model\3d spatialchannelmodel\3dspatialchannelmodel_nrurllc.cpp(1619): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+c:\5g simulator - reference (0813)\simulator\channel model\3d spatialchannelmodel\3dspatialchannelmodel_nrurllc.cpp(1691): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\5g simulator - reference (0813)\simulator\channel model\3d spatialchannelmodel\3dspatialchannelmodel_nrurllc.cpp(1692): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\5g simulator - reference (0813)\simulator\channel model\3d spatialchannelmodel\3dspatialchannelmodel_nrurllc.cpp(1740): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\5g simulator - reference (0813)\simulator\channel model\3d spatialchannelmodel\3dspatialchannelmodel_nrurllc.cpp(1741): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+c:\5g simulator - reference (0813)\simulator\radio resource management\schedulingbs\schedulingbs_nrurllc.cpp(505): warning C4715: 'SchedulingBS::PrecodingMatrix': not all control paths return a value
+c:\5g simulator - reference (0813)\simulator\radio resource management\schedulingms\schedulingms_nrurllc.cpp(409): warning C4715: 'SchedulingMS::PrecodingMatrix': not all control paths return a value
+ChannelMS_NRuRLLC.obj : error LNK2019: unresolved external symbol _sgemv_ referenced in function "void __cdecl arma::blas::gemv<class std::complex<double> >(char const *,int const *,int const *,class std::complex<double> const *,class std::complex<double> const *,int const *,class std::complex<double> const *,int const *,class std::complex<double> const *,class std::complex<double> *,int const *)" (??$gemv@V?$complex@N@std@@@blas@arma@@YAXPBDPBH1PBV?$complex@N@std@@21212PAV23@1@Z)
+NetworkMS_NRuRLLC.obj : error LNK2001: unresolved external symbol _sgemv_
+SchedulingBS_NRuRLLC.obj : error LNK2001: unresolved external symbol _sgemv_
+SchedulingMS_NRuRLLC.obj : error LNK2001: unresolved external symbol _sgemv_
+ChannelMS_NRuRLLC.obj : error LNK2019: unresolved external symbol _dgemv_ referenced in function "void __cdecl arma::blas::gemv<class std::complex<double> >(char const *,int const *,int const *,class std::complex<double> const *,class std::complex<double> const *,int const *,class std::complex<double> const *,int const *,class std::complex<double> const *,class std::complex<double> *,int const *)" (??$gemv@V?$complex@N@std@@@blas@arma@@YAXPBDPBH1PBV?$complex@N@std@@21212PAV23@1@Z)
+NetworkMS_NRuRLLC.obj : error LNK2001: unresolved external symbol _dgemv_
+SchedulingBS_NRuRLLC.obj : error LNK2001: unresolved external symbol _dgemv_
+SchedulingMS_NRuRLLC.obj : error LNK2001: unresolved external symbol _dgemv_
+ChannelMS_NRuRLLC.obj : error LNK2019: unresolved external symbol _cgemv_ referenced in function "void __cdecl arma::blas::gemv<class std::complex<double> >(char const *,int const *,int const *,class std::complex<double> const *,class std::complex<double> const *,int const *,class std::complex<double> const *,int const *,class std::complex<double> const *,class std::complex<double> *,int const *)" (??$gemv@V?$complex@N@std@@@blas@arma@@YAXPBDPBH1PBV?$complex@N@std@@21212PAV23@1@Z)
+NetworkMS_NRuRLLC.obj : error LNK2001: unresolved external symbol _cgemv_
+SchedulingBS_NRuRLLC.obj : error LNK2001: unresolved external symbol _cgemv_
+SchedulingMS_NRuRLLC.obj : error LNK2001: unresolved external symbol _cgemv_
+ChannelMS_NRuRLLC.obj : error LNK2019: unresolved external symbol _zgemv_ referenced in function "void __cdecl arma::blas::gemv<class std::complex<double> >(char const *,int const *,int const *,class std::complex<double> const *,class std::complex<double> const *,int const *,class std::complex<double> const *,int const *,class std::complex<double> const *,class std::complex<double> *,int const *)" (??$gemv@V?$complex@N@std@@@blas@arma@@YAXPBDPBH1PBV?$complex@N@std@@21212PAV23@1@Z)
+NetworkMS_NRuRLLC.obj : error LNK2001: unresolved external symbol _zgemv_
+SchedulingBS_NRuRLLC.obj : error LNK2001: unresolved external symbol _zgemv_
+SchedulingMS_NRuRLLC.obj : error LNK2001: unresolved external symbol _zgemv_
+ChannelMS_NRuRLLC.obj : error LNK2019: unresolved external symbol _sgemm_ referenced in function "void __cdecl arma::blas::gemm<class std::complex<double> >(char const *,char const *,int const *,int const *,int const *,class std::complex<double> const *,class std::complex<double> const *,int const *,class std::complex<double> const *,int const *,class std::complex<double> const *,class std::complex<double> *,int const *)" (??$gemm@V?$complex@N@std@@@blas@arma@@YAXPBD0PBH11PBV?$complex@N@std@@21212PAV23@1@Z)
+NetworkMS_NRuRLLC.obj : error LNK2001: unresolved external symbol _sgemm_
+SchedulingBS_NRuRLLC.obj : error LNK2001: unresolved external symbol _sgemm_
+SchedulingMS_NRuRLLC.obj : error LNK2001: unresolved external symbol _sgemm_
+ChannelMS_NRuRLLC.obj : error LNK2019: unresolved external symbol _dgemm_ referenced in function "void __cdecl arma::blas::gemm<class std::complex<double> >(char const *,char const *,int const *,int const *,int const *,class std::complex<double> const *,class std::complex<double> const *,int const *,class std::complex<double> const *,int const *,class std::complex<double> const *,class std::complex<double> *,int const *)" (??$gemm@V?$complex@N@std@@@blas@arma@@YAXPBD0PBH11PBV?$complex@N@std@@21212PAV23@1@Z)
+NetworkMS_NRuRLLC.obj : error LNK2001: unresolved external symbol _dgemm_
+SchedulingBS_NRuRLLC.obj : error LNK2001: unresolved external symbol _dgemm_
+SchedulingMS_NRuRLLC.obj : error LNK2001: unresolved external symbol _dgemm_
+ChannelMS_NRuRLLC.obj : error LNK2019: unresolved external symbol _cgemm_ referenced in function "void __cdecl arma::blas::gemm<class std::complex<double> >(char const *,char const *,int const *,int const *,int const *,class std::complex<double> const *,class std::complex<double> const *,int const *,class std::complex<double> const *,int const *,class std::complex<double> const *,class std::complex<double> *,int const *)" (??$gemm@V?$complex@N@std@@@blas@arma@@YAXPBD0PBH11PBV?$complex@N@std@@21212PAV23@1@Z)
+NetworkMS_NRuRLLC.obj : error LNK2001: unresolved external symbol _cgemm_
+SchedulingBS_NRuRLLC.obj : error LNK2001: unresolved external symbol _cgemm_
+SchedulingMS_NRuRLLC.obj : error LNK2001: unresolved external symbol _cgemm_
+ChannelMS_NRuRLLC.obj : error LNK2019: unresolved external symbol _zgemm_ referenced in function "void __cdecl arma::blas::gemm<class std::complex<double> >(char const *,char const *,int const *,int const *,int const *,class std::complex<double> const *,class std::complex<double> const *,int const *,class std::complex<double> const *,int const *,class std::complex<double> const *,class std::complex<double> *,int const *)" (??$gemm@V?$complex@N@std@@@blas@arma@@YAXPBD0PBH11PBV?$complex@N@std@@21212PAV23@1@Z)
+NetworkMS_NRuRLLC.obj : error LNK2001: unresolved external symbol _zgemm_
+SchedulingBS_NRuRLLC.obj : error LNK2001: unresolved external symbol _zgemm_
+SchedulingMS_NRuRLLC.obj : error LNK2001: unresolved external symbol _zgemm_
+ChannelMS_NRuRLLC.obj : error LNK2019: unresolved external symbol _cherk_ referenced in function "void __cdecl arma::blas::herk<double>(char const *,char const *,int const *,int const *,double const *,class std::complex<double> const *,int const *,double const *,class std::complex<double> *,int const *)" (??$herk@N@blas@arma@@YAXPBD0PBH1PBNPBV?$complex@N@std@@12PAV23@1@Z)
+SchedulingBS_NRuRLLC.obj : error LNK2001: unresolved external symbol _cherk_
+SchedulingMS_NRuRLLC.obj : error LNK2001: unresolved external symbol _cherk_
+ChannelMS_NRuRLLC.obj : error LNK2019: unresolved external symbol _zherk_ referenced in function "void __cdecl arma::blas::herk<double>(char const *,char const *,int const *,int const *,double const *,class std::complex<double> const *,int const *,double const *,class std::complex<double> *,int const *)" (??$herk@N@blas@arma@@YAXPBD0PBH1PBNPBV?$complex@N@std@@12PAV23@1@Z)
+SchedulingBS_NRuRLLC.obj : error LNK2001: unresolved external symbol _zherk_
+SchedulingMS_NRuRLLC.obj : error LNK2001: unresolved external symbol _zherk_
+ChannelMS_NRuRLLC.obj : error LNK2019: unresolved external symbol _sgesv_ referenced in function "void __cdecl arma::lapack::gesv<class std::complex<double> >(int *,int *,class std::complex<double> *,int *,int *,class std::complex<double> *,int *,int *)" (??$gesv@V?$complex@N@std@@@lapack@arma@@YAXPAH0PAV?$complex@N@std@@00100@Z)
+NetworkMS_NRuRLLC.obj : error LNK2001: unresolved external symbol _sgesv_
+SchedulingBS_NRuRLLC.obj : error LNK2001: unresolved external symbol _sgesv_
+SchedulingMS_NRuRLLC.obj : error LNK2001: unresolved external symbol _sgesv_
+ChannelMS_NRuRLLC.obj : error LNK2019: unresolved external symbol _dgesv_ referenced in function "void __cdecl arma::lapack::gesv<class std::complex<double> >(int *,int *,class std::complex<double> *,int *,int *,class std::complex<double> *,int *,int *)" (??$gesv@V?$complex@N@std@@@lapack@arma@@YAXPAH0PAV?$complex@N@std@@00100@Z)
+NetworkMS_NRuRLLC.obj : error LNK2001: unresolved external symbol _dgesv_
+SchedulingBS_NRuRLLC.obj : error LNK2001: unresolved external symbol _dgesv_
+SchedulingMS_NRuRLLC.obj : error LNK2001: unresolved external symbol _dgesv_
+ChannelMS_NRuRLLC.obj : error LNK2019: unresolved external symbol _cgesv_ referenced in function "void __cdecl arma::lapack::gesv<class std::complex<double> >(int *,int *,class std::complex<double> *,int *,int *,class std::complex<double> *,int *,int *)" (??$gesv@V?$complex@N@std@@@lapack@arma@@YAXPAH0PAV?$complex@N@std@@00100@Z)
+NetworkMS_NRuRLLC.obj : error LNK2001: unresolved external symbol _cgesv_
+SchedulingBS_NRuRLLC.obj : error LNK2001: unresolved external symbol _cgesv_
+SchedulingMS_NRuRLLC.obj : error LNK2001: unresolved external symbol _cgesv_
+ChannelMS_NRuRLLC.obj : error LNK2019: unresolved external symbol _zgesv_ referenced in function "void __cdecl arma::lapack::gesv<class std::complex<double> >(int *,int *,class std::complex<double> *,int *,int *,class std::complex<double> *,int *,int *)" (??$gesv@V?$complex@N@std@@@lapack@arma@@YAXPAH0PAV?$complex@N@std@@00100@Z)
+NetworkMS_NRuRLLC.obj : error LNK2001: unresolved external symbol _zgesv_
+SchedulingBS_NRuRLLC.obj : error LNK2001: unresolved external symbol _zgesv_
+SchedulingMS_NRuRLLC.obj : error LNK2001: unresolved external symbol _zgesv_
+NetworkMS_NRuRLLC.obj : error LNK2019: unresolved external symbol _sdot_ referenced in function "double __cdecl arma::blas::dot<double>(unsigned int,double const *,double const *)" (??$dot@N@blas@arma@@YANIPBN0@Z)
+NetworkMS_NRuRLLC.obj : error LNK2019: unresolved external symbol _ddot_ referenced in function "double __cdecl arma::blas::dot<double>(unsigned int,double const *,double const *)" (??$dot@N@blas@arma@@YANIPBN0@Z)
+NetworkMS_NRuRLLC.obj : error LNK2019: unresolved external symbol _ssyrk_ referenced in function "void __cdecl arma::blas::syrk<double>(char const *,char const *,int const *,int const *,double const *,double const *,int const *,double const *,double *,int const *)" (??$syrk@N@blas@arma@@YAXPBD0PBH1PBN212PAN1@Z)
+NetworkMS_NRuRLLC.obj : error LNK2019: unresolved external symbol _dsyrk_ referenced in function "void __cdecl arma::blas::syrk<double>(char const *,char const *,int const *,int const *,double const *,double const *,int const *,double const *,double *,int const *)" (??$syrk@N@blas@arma@@YAXPBD0PBH1PBN212PAN1@Z)
+NetworkMS_NRuRLLC.obj : error LNK2019: unresolved external symbol _spotrf_ referenced in function "void __cdecl arma::lapack::potrf<double>(char *,int *,double *,int *,int *)" (??$potrf@N@lapack@arma@@YAXPADPAHPAN11@Z)
+NetworkMS_NRuRLLC.obj : error LNK2019: unresolved external symbol _dpotrf_ referenced in function "void __cdecl arma::lapack::potrf<double>(char *,int *,double *,int *,int *)" (??$potrf@N@lapack@arma@@YAXPADPAHPAN11@Z)
+NetworkMS_NRuRLLC.obj : error LNK2019: unresolved external symbol _cpotrf_ referenced in function "void __cdecl arma::lapack::potrf<double>(char *,int *,double *,int *,int *)" (??$potrf@N@lapack@arma@@YAXPADPAHPAN11@Z)
+NetworkMS_NRuRLLC.obj : error LNK2019: unresolved external symbol _zpotrf_ referenced in function "void __cdecl arma::lapack::potrf<double>(char *,int *,double *,int *,int *)" (??$potrf@N@lapack@arma@@YAXPADPAHPAN11@Z)
+SchedulingBS_NRuRLLC.obj : error LNK2019: unresolved external symbol _sgetrf_ referenced in function "void __cdecl arma::lapack::getrf<class std::complex<double> >(int *,int *,class std::complex<double> *,int *,int *,int *)" (??$getrf@V?$complex@N@std@@@lapack@arma@@YAXPAH0PAV?$complex@N@std@@000@Z)
+SchedulingMS_NRuRLLC.obj : error LNK2001: unresolved external symbol _sgetrf_
+SchedulingBS_NRuRLLC.obj : error LNK2019: unresolved external symbol _dgetrf_ referenced in function "void __cdecl arma::lapack::getrf<class std::complex<double> >(int *,int *,class std::complex<double> *,int *,int *,int *)" (??$getrf@V?$complex@N@std@@@lapack@arma@@YAXPAH0PAV?$complex@N@std@@000@Z)
+SchedulingMS_NRuRLLC.obj : error LNK2001: unresolved external symbol _dgetrf_
+SchedulingBS_NRuRLLC.obj : error LNK2019: unresolved external symbol _cgetrf_ referenced in function "void __cdecl arma::lapack::getrf<class std::complex<double> >(int *,int *,class std::complex<double> *,int *,int *,int *)" (??$getrf@V?$complex@N@std@@@lapack@arma@@YAXPAH0PAV?$complex@N@std@@000@Z)
+SchedulingMS_NRuRLLC.obj : error LNK2001: unresolved external symbol _cgetrf_
+SchedulingBS_NRuRLLC.obj : error LNK2019: unresolved external symbol _zgetrf_ referenced in function "void __cdecl arma::lapack::getrf<class std::complex<double> >(int *,int *,class std::complex<double> *,int *,int *,int *)" (??$getrf@V?$complex@N@std@@@lapack@arma@@YAXPAH0PAV?$complex@N@std@@000@Z)
+SchedulingMS_NRuRLLC.obj : error LNK2001: unresolved external symbol _zgetrf_
+SchedulingBS_NRuRLLC.obj : error LNK2019: unresolved external symbol _sgetri_ referenced in function "void __cdecl arma::lapack::getri<class std::complex<double> >(int *,class std::complex<double> *,int *,int *,class std::complex<double> *,int *,int *)" (??$getri@V?$complex@N@std@@@lapack@arma@@YAXPAHPAV?$complex@N@std@@00100@Z)
+SchedulingMS_NRuRLLC.obj : error LNK2001: unresolved external symbol _sgetri_
+SchedulingBS_NRuRLLC.obj : error LNK2019: unresolved external symbol _dgetri_ referenced in function "void __cdecl arma::lapack::getri<class std::complex<double> >(int *,class std::complex<double> *,int *,int *,class std::complex<double> *,int *,int *)" (??$getri@V?$complex@N@std@@@lapack@arma@@YAXPAHPAV?$complex@N@std@@00100@Z)
+SchedulingMS_NRuRLLC.obj : error LNK2001: unresolved external symbol _dgetri_
+SchedulingBS_NRuRLLC.obj : error LNK2019: unresolved external symbol _cgetri_ referenced in function "void __cdecl arma::lapack::getri<class std::complex<double> >(int *,class std::complex<double> *,int *,int *,class std::complex<double> *,int *,int *)" (??$getri@V?$complex@N@std@@@lapack@arma@@YAXPAHPAV?$complex@N@std@@00100@Z)
+SchedulingMS_NRuRLLC.obj : error LNK2001: unresolved external symbol _cgetri_
+SchedulingBS_NRuRLLC.obj : error LNK2019: unresolved external symbol _zgetri_ referenced in function "void __cdecl arma::lapack::getri<class std::complex<double> >(int *,class std::complex<double> *,int *,int *,class std::complex<double> *,int *,int *)" (??$getri@V?$complex@N@std@@@lapack@arma@@YAXPAHPAV?$complex@N@std@@00100@Z)
+SchedulingMS_NRuRLLC.obj : error LNK2001: unresolved external symbol _zgetri_
+SchedulingMS_NRuRLLC.obj : error LNK2019: unresolved external symbol _cgesvd_ referenced in function "void __cdecl arma::lapack::cx_gesvd<double>(char *,char *,int *,int *,class std::complex<double> *,int *,double *,class std::complex<double> *,int *,class std::complex<double> *,int *,class std::complex<double> *,int *,double *,int *)" (??$cx_gesvd@N@lapack@arma@@YAXPAD0PAH1PAV?$complex@N@std@@1PAN21212131@Z)
+SchedulingMS_NRuRLLC.obj : error LNK2019: unresolved external symbol _zgesvd_ referenced in function "void __cdecl arma::lapack::cx_gesvd<double>(char *,char *,int *,int *,class std::complex<double> *,int *,double *,class std::complex<double> *,int *,class std::complex<double> *,int *,class std::complex<double> *,int *,double *,int *)" (??$cx_gesvd@N@lapack@arma@@YAXPAD0PAH1PAV?$complex@N@std@@1PAN21212131@Z)
+SchedulingMS_NRuRLLC.obj : error LNK2019: unresolved external symbol _cgesdd_ referenced in function "void __cdecl arma::lapack::cx_gesdd<double>(char *,int *,int *,class std::complex<double> *,int *,double *,class std::complex<double> *,int *,class std::complex<double> *,int *,class std::complex<double> *,int *,double *,int *,int *)" (??$cx_gesdd@N@lapack@arma@@YAXPADPAH1PAV?$complex@N@std@@1PAN212121311@Z)
+SchedulingMS_NRuRLLC.obj : error LNK2019: unresolved external symbol _zgesdd_ referenced in function "void __cdecl arma::lapack::cx_gesdd<double>(char *,int *,int *,class std::complex<double> *,int *,double *,class std::complex<double> *,int *,class std::complex<double> *,int *,class std::complex<double> *,int *,double *,int *,int *)" (??$cx_gesdd@N@lapack@arma@@YAXPADPAH1PAV?$complex@N@std@@1PAN212121311@Z)
+C:\5G Simulator - Reference (0813)\VS Project_NRuRLLC System Level Simulation\Debug\VS Project_NRuRLLC System Level Simulation.exe : fatal error LNK1120: 34 unresolved externals
